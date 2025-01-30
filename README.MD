@@ -23,15 +23,6 @@ git clone https://github.com/LucasS059/CRUD-DE-PRODUTOS.git
 cd CRUD-DE-PRODUTOS
 ```
 
-## Como Usar
-
-### 1. Clone o Repositório
-
-```bash
-git clone https://github.com/LucasS059/CRUD-DE-PRODUTOS.git
-cd CRUD-DE-PRODUTOS
-```
-
 ### 2. Configure o MongoDB
 
 Você tem duas opções para configurar o MongoDB: **MongoDB Atlas** (para uma solução em nuvem) ou **MongoDB Local** (para rodar em sua máquina).
