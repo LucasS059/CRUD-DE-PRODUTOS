@@ -2,8 +2,6 @@
 
 Este é um projeto simples em Python para gerenciar produtos utilizando o MongoDB. Ele foi desenvolvido como uma maneira de aprimorar os meus estudos com o MongoDB e Python, criando um CRUD básico (Criar, Ler, Atualizar e Deletar) para gerenciar um inventário de produtos.
 
----
-
 ## Como Usar
 
 ### 1. Clone o Repositório
