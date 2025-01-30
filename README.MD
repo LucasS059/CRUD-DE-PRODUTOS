@@ -1,18 +1,18 @@
 # CRUD de Produtos
 
-Um projeto em Python para gerenciar produtos usando MongoDB.
-
-**Repositório**: [CRUD DE PRODUTOS - GitHub](https://github.com/LucasS059/CRUD-DE-PRODUTOS.git)
+Este é um projeto desenvolvido em Python para gerenciar produtos em um banco de dados MongoDB. A ideia surgiu como uma maneira de aprimorar meus estudos de MongoDB e Python, criando um CRUD (Create, Read, Update, Delete) completo para manipulação de produtos em um sistema de gerenciamento de estoque.
 
 ## Funcionalidades
 
 - Adicionar, listar, atualizar e remover produtos.
+- Cada produto contém informações como nome, preço e quantidade em estoque.
 
 ## Tecnologias
 
-- Python
-- MongoDB (PyMongo)
-- dotenv
+- **Python**: Linguagem utilizada para desenvolvimento do CRUD.
+- **MongoDB**: Banco de dados NoSQL utilizado para armazenar os produtos.
+- **PyMongo**: Biblioteca para conectar e interagir com o MongoDB a partir do Python.
+- **dotenv**: Biblioteca utilizada para carregar variáveis de ambiente (como a URL de conexão com o MongoDB) de forma segura.
 
 ## Como Usar
 
