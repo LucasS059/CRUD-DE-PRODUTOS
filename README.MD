@@ -99,5 +99,5 @@ pip install -r requirements.txt
 Após configurar o MongoDB e as dependências, basta rodar o arquivo `crud.py` para interagir com o sistema:
 
 ```bash
-python crud.py
+python produtos.py
 ```
