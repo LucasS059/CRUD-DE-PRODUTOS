@@ -23,10 +23,6 @@ git clone https://github.com/LucasS059/CRUD-DE-PRODUTOS.git
 cd CRUD-DE-PRODUTOS
 ```
 
-Claro! Aqui está a parte de **Configuração do MongoDB** mais detalhada e com opções de escolha entre o MongoDB Atlas e o MongoDB Compass (ou local):
-
----
-
 ## Como Usar
 
 ### 1. Clone o Repositório
