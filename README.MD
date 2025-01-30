@@ -75,9 +75,6 @@ Se você deseja rodar o MongoDB localmente, siga os passos abaixo para configura
 No código Python, você pode alterar o nome do banco de dados e da coleção. Para fazer isso, basta alterar as variáveis abaixo:
 
 ```python
-# Definindo o cliente MongoDB
-client = MongoClient(mongo_uri)
-
 # Nome do banco de dados
 db = client["nome_do_seu_banco"]
 
